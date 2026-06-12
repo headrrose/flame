@@ -1,0 +1,21 @@
+nav {
+  font-size: 2rem;
+  font-family: 'Fantasy', sans-serif;
+  background-color: #ffffff;
+}
+nav a {
+  text-decoration: none;
+  padding: 10px 20px;
+  display: block;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav li {
+  margin: 5px;
+  border: 2px solid 
+    background-color: #fffae6;
+    padding: 10px 0;
+    border-radius: 5px;
+}
