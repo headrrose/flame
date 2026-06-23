@@ -12,7 +12,7 @@ function buyUpgrade() {
         document.getElementById("totalclicks").innerText = "Total clicks: " + cookieclicks;
         setInterval(thecookieclicks, 1000); 
     } else {
-        document.getElementByID("gameMessage").innerText = "You need 10 clicks to buy this!";
+        document.getElementById("gameMessage").innerText = "You need 10 clicks to buy this!";
     }
 }
 
