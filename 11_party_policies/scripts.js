@@ -15,3 +15,5 @@ function showPolicies() {
     list.appendChild(item);
   }
 }
+
+document.getElementById("showPolicies").onclick = showPolicies;
