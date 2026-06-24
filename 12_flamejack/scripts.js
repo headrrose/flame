@@ -11,11 +11,11 @@ function chargeReactor() {
   } else if (energy < 21) {
     document.getElementById("statusMessage").innerText = " Stable energy level!";
   } else if (energy == 21) {
-    document.getElementById("statusMessage").innerText = " Perfect Resonance!";
+    document.getElementById("statusMessage").innerHTML = "<span style='color: green;'>Perfect Resonance!</span>";
   } else if (energy <= 23) {
-    document.getElementById("statusMessage").innerText = " DANGER: Energy level rising..!";
+    document.getElementById("statusMessage").innerHTML = "<span style='font-size: 18px; color: #ff0000;'>DANGER: Energy level rising..!</span>";
   } else {
-    document.getElementById("statusMessage").innerText = " Overload! Core meltdown!";
+    document.getElementById("statusMessage").innerHTML = "<span style='font-size: 24px; color: #470202;'>Overload! Core meltdown!</span>";
     document.getElementById("chargeButton").disabled = true;
   }
 }
