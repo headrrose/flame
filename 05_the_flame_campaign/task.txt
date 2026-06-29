@@ -1,0 +1,187 @@
+In this task we will practice breaking down designs into HTML.
+
+You are working with the FLAME designer. They have made a design for the campaign website
+
+You have been given the task of turing the design into HTML. 
+The CSS has been provided for you. Make sure to check the css selectors to decide what classes ids and tags to use
+
+They have provided the text and a list of classes, ids and tags of the website below. 
+
+__________________________________
+
+Classes needed HTML:
+
+.wrapper
+.header-wrapper
+
+.logo-block
+.tagline
+
+.nav-links
+
+.hero
+.hero-content
+.hero-buttons
+
+.button
+.button-secondary
+
+.section-intro
+
+.policy-grid
+
+.card
+.card-content
+.card-tag
+
+.people-grid
+
+.person-card
+.person-content
+.role
+
+.footer-grid
+.footer-column
+
+IDs needed:
+
+#policies
+#people-section
+
+
+Tags needed:
+
+body
+
+header
+nav
+main
+section
+article
+footer
+
+div
+
+h1
+h2
+h3
+
+p
+
+a
+
+img
+
+
+
+-----------------------------------------------
+
+FLAME
+
+Free Lancers, Artisans, Magicians and Engineers
+
+Home
+Policies
+Our People
+Join
+
+Fair Work for the Magical Community
+
+FLAME campaigns for safer workshops, fair contracts, and respect for every mage, maker, artisan, and engineer.
+
+See Our Policies
+Join the Guild
+
+Nine practical changes for fairer magical work.
+
+Safer Potion Labs
+
+Clear labels, proper ventilation, and anti-explosion training.
+
+Safety
+
+Wand Allowance
+
+Essential magical tools should not come from workers’ pockets.
+
+Tools
+
+Apprentice Rights
+
+Fair hours, real teaching, and protection from dangerous work.
+
+Training
+
+Safe Forges
+
+Every forge, tower, and workshop should meet safety standards.
+
+Workshops
+
+Fair Contracts
+
+No hidden curses, endless clauses, or magical fine print.
+
+Contracts
+
+Market Protection
+
+Protect small magical businesses from unfair guild fees.
+
+Markets
+
+Accident Cover
+
+Magical burns, hexes, bites, and broom crashes should be covered.
+
+Health
+
+Paid Study Time
+
+Workers need time to test, improve, and develop their craft.
+
+Research
+
+Guild Housing
+
+Affordable homes near workshops, towers, and guild halls.
+
+Housing
+
+The workers leading the FLAME campaign.
+
+Ember Vale
+
+Guild Speaker
+
+Ember campaigns for fair contracts and safer magical workplaces.
+
+Rowan Brasswick
+
+Engineer Representative
+
+Rowan fights for better tools, safer machines, and worker respect.
+
+Lyra Moonfall
+
+Arcane Workers Advocate
+
+Lyra supports apprentices, spellcasters, and freelance workers.
+
+Campaign
+
+Our Policies
+Our People
+Back to Top
+
+Guild Support
+
+Report Unsafe Magic
+Apprentice Help
+Contract Advice
+
+Connect
+
+Crystal Mail
+Noticeboard
+Guild Hall

@@ -1,14 +1,15 @@
 🟧 PRIMM: Style Your Candidate
 
 PREDICT:
-What will the page look like? Where will it appear? On the browser.
+What will the page look like? Where will it appear?
 
 RUN:
 Check that the image shows up and fits inside the card.
+What did you see? Were you right or wrong?
 
 INVESTIGATE:
 - What does max-width do?
-- What’s the difference between margin and padding? I don't know sorry
+- What’s the difference between margin and padding?
 - What are the . and # doing?
 
 MODIFY:

@@ -1,0 +1,59 @@
+/*
+🟧 TASK 6 – PRIMM: Display My Party’s Policies
+
+This task introduces `for` loops and how to show lists using JavaScript.
+
+🟡 PREDICT  
+What will happen when we loop through the policies array?
+How many items will appear?
+
+🟢 RUN  
+Click “Show Policies” and see what appears in the list.
+
+🔵 INVESTIGATE  
+- What is `i` doing?
+- What does `policies[i]` refer to?
+- What happens if we add a new item to the array?
+
+🟠 MODIFY  
+- Add another policy
+- Show each one in all caps or with a number in front
+- Add an emoji to each item (e.g. 🌿 for Climate)
+- Change the for loop syntax to foreach syntax. 
+- Change it back again. 
+- Put the policies in a grid 3 wide. 
+
+🔴 MAKE  
+1: Create an input field and an additional button so 
+a user can add a policy to the list!
+
+2: in the HTML you will see a section called 
+'99 potions of cheer' currently set to hidden.
+Create a new function that 
+ - Unhides this section
+ - loops 99 times
+ - Creates a new p tag each loop
+ - sets the innerText to the correct lyrics. 
+ - uses .appendChild to add on this verse
+ - don't forget to space the verses nicely!
+
+******************************************
+
+
+99 potions of cheer on the wall,
+99 potions of cheer.
+Take one down and pass it around,
+98 potions of cheer on the wall.
+....
+
+1 potion of cheer on the wall,
+1 potion of cheer.
+Take one down and pass it around,
+No more potions of cheer on the wall.
+
+No more potions of cheer on the wall,
+No more potions of cheer.
+Go to the store and buy some more,
+99 potions of cheer on the wall.
+
+*/
