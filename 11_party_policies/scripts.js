@@ -16,4 +16,11 @@ function showPolicies() {
   }
 }
 
+  function addPolicy(){
+    let policy = document.getElementById('textInput').value;
+    policies.push(policy)
+  }
+
+
 document.getElementById("showPolicies").onclick = showPolicies;
+document.getElementById("addPolicyButton").onclick = addPolicy
